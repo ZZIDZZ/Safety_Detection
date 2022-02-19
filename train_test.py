@@ -4,7 +4,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 print(current_dir)
 current_dir = 'dataset'
 # Percentage of images to be used for the test set
-percentage_test = 10;
+percentage_test = 10
 # Create and/or truncate train.txt and test.txt
 file_train = open('train.txt', 'w')  
 file_test = open('test.txt', 'w')

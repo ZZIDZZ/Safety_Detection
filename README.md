@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=pqLSeACd97w&feature=youtu.be
 
 Download the trained model weights and run test code using yolo_video.py on real time video streams or recorded video.
 
+Note: ported to be trained in yolov5
+
 
 
 

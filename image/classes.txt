@@ -1,3 +1,0 @@
-helmet
-west
-No helmet
