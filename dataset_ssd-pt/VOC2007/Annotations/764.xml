@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>764.jpg</filename>
+	<path>..\JPEGImages\764.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>196</ymin>
+			<xmax>252</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>west</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>253</ymin>
+			<xmax>280</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

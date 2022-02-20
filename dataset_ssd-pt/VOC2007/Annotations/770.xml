@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>770.jpg</filename>
+	<path>..\JPEGImages\770.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>202</ymin>
+			<xmax>182</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>west</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>263</ymin>
+			<xmax>207</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

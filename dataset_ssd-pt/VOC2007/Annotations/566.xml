@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>566.jpg</filename>
+	<path>..\JPEGImages\566.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>175</ymin>
+			<xmax>331</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>west</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>223</ymin>
+			<xmax>371</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

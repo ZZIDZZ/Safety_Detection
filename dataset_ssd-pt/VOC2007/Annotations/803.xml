@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>803.jpg</filename>
+	<path>..\JPEGImages\803.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>west</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>260</ymin>
+			<xmax>369</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>No helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>210</ymin>
+			<xmax>344</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

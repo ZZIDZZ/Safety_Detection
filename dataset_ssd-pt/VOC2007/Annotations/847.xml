@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>847.jpg</filename>
+	<path>..\JPEGImages\847.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>182</ymin>
+			<xmax>236</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>west</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>251</ymin>
+			<xmax>266</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>
