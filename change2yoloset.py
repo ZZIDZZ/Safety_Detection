@@ -9,7 +9,7 @@ val_ratio = 20
 def move(file, dir):
     for f in glob.glob(f"./{file}*"):
         print(f)
-        shutil.move(f"{f}", f"./{dir}/{f}")
+        shutil.copy(f"{f}", f"./{dir}/{f}")
 
 def moveExt(ext, dir):
     try:
@@ -18,7 +18,7 @@ def moveExt(ext, dir):
         pass
     for f in glob.glob(f"./*.{ext}"):
         print(f)
-        shutil.move(f"{f}", f"./{dir}/{f}")
+        shutil.copy(f"{f}", f"./{dir}/{f}")
 
 files = os.listdir()
 dataset = 0
